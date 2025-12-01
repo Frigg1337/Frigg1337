@@ -41,7 +41,7 @@
 ## <h3 align="left">Strike:</h3>
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Frigg1337&theme=nightowl" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Frigg1337&theme=blueberry-duo" alt="GitHub Streak" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Frigg1337" alt="Frigg1337" /></a> </p>
 
