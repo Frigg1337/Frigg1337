@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px" center>
-<p> Hi I'm Rado</p>
-  </img>
-</div>
+<h1 align="center"> Hi, I'm Rado</h1>
 
 ###
 
