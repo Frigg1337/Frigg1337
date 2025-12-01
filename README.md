@@ -1,5 +1,7 @@
 <div align="center">
-  ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px" center></img> Hi I'm Rado
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px" center>
+<p> Hi I'm Rado</p>
+  </img>
 </div>
 
 ###
