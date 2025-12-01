@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<p align="left">Tech Stack :</p>
+<h3 align="left">Tech Stack :</h3>
 
 ###
 
