@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
 </div>
 
-###<h3 align="left">Strike:</h3>
+## <h3 align="left">Strike:</h3>
 
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Frigg1337&theme=nightowl" alt="GitHub Streak" /></a>
