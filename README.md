@@ -41,17 +41,10 @@
 
 
 
-# Hi 👋, I'm Rafaakn
-
-### a software engineering student
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Frigg1337&label=Profile views&color=0e75b6&style=flat" alt="Frigg1337" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Frigg1337" alt="Frigg1337" /></a> </p>
 
-- 🔭 I'm currently working on **currently developing a lab inventory website**
 
-- 🌱 I'm currently learning ** I am studying software engineering.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
