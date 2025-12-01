@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I'm Rado</h1>
+<h1 align="left center">👋 Hi, I'm Rado</h1>
 
 ###
 
