@@ -64,3 +64,6 @@
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frigg1337)](https://github.com/Frigg1337)
 
+[![Rado's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frigg1337&show_icons=true&theme=dracula)](https://github.com/Frigg1337)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frigg1337&layout=compact&theme=dracula)](https://github.com/Frigg1337)
+
