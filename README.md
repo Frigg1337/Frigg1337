@@ -43,6 +43,12 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Frigg1337&theme=blueberry-duo" alt="GitHub Streak" /></a>
 
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Frigg1337&theme=blueberry-duo" alt="GitHub Streak" /></a>
+</div>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Frigg1337" alt="Frigg1337" /></a> </p>
 
 
