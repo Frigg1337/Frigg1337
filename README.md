@@ -41,9 +41,7 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Frigg1337&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Frigg1337&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Frigg1337&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Frigg1337&theme=blueberry-duo" alt="GitHub Streak" /></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Frigg1337&theme=nightowl&no-frame=false&no-bg=true&margin-w=4)
