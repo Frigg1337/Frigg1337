@@ -38,7 +38,7 @@
     <img align="center" src="https://frigg-stats.vercel.app/api/pin/?username=Frigg1337&repo=ctf-event-tracker&hide_border=true&bg_color=0D1117&title_color=82AAFF&icon_color=C792EA&text_color=A6ACCD" />
   </a>
 
-  <br/><br/><br/>
+  <br/><br/>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Frigg1337/Frigg1337/output/snake-dark.svg">
