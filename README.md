@@ -37,6 +37,9 @@
   <a href="https://github.com/frigg1337/ctf-event-tracker">
     <img align="center" src="https://frigg-stats.vercel.app/api/pin/?username=Frigg1337&repo=ctf-event-tracker&hide_border=true&bg_color=0D1117&title_color=82AAFF&icon_color=C792EA&text_color=A6ACCD" />
   </a>
+   <a href="https://github.com/frigg1337/n1nja-cli">
+    <img align="center" src="https://frigg-stats.vercel.app/api/pin/?username=Frigg1337&repo=n1nja-cli&hide_border=true&bg_color=0D1117&title_color=82AAFF&icon_color=C792EA&text_color=A6ACCD" />
+  </a>
 
   <br/><br/>
 
