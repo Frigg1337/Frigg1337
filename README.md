@@ -7,13 +7,13 @@
 
   <br/><br/>
 
-  <a href="https://instagram.com/USERNAME-ANDA">
+  <a href="https://instagram.com/rafaakn_">
     <img src="https://img.shields.io/badge/Instagram-%2382AAFF.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="25" />
   </a>
-  <a href="https://linkedin.com/in/USERNAME-ANDA">
+  <a href="https://linkedin.com/in/rado-faristra-amsah">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
   </a>
-  <a href="mailto:EMAIL-ANDA@gmail.com">
+  <a href="mailto:rrado2294@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23C792EA?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
   </a>
 
