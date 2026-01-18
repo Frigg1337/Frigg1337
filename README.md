@@ -40,6 +40,8 @@
 
   <br/><br/><br/>
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIwZGJhM2E1MWQzODQxYjc1NDQ5OTQ5NmM2ZGI5N2EwYmQ1NTQ0MyZjdD1z/hOzMv2eT7j7a0bVb7v/giphy.gif" width="100%" alt="Pacman Animation" />
-
-</div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Frigg1337/Frigg1337/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Frigg1337/Frigg1337/output/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Frigg1337/Frigg1337/output/snake.svg" width="100%" />
+  </picture>
