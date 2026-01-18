@@ -10,7 +10,7 @@
   <a href="https://instagram.com/rafaakn_">
     <img src="https://img.shields.io/badge/Instagram-%2382AAFF.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="25" />
   </a>
-  <a href="www.linkedin.com/in/rado-faristra-amsah-882bb8380/">
+  <a href="www.linkedin.com/in/rado-faristra-amsah  ">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
   </a>
   <a href="mailto:rrado2294@gmail.com">
