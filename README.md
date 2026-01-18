@@ -2,7 +2,7 @@
 
   <h1 align="center"> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">Hi, I'm Rado Faristra Amsah</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=82AAFF&center=true&vCenter=true&width=435&lines=RPL+Student+%40+SMKN+1+Boyolangu;CTF+Player+%40+Team+JARVIS;Arch+Linux+User;Building+Automation+Tools" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=82AAFF&center=true&vCenter=true&width=435&lines=RPL+Student+%40+SMKN+1+Boyolangu;CTF+Player;Arch+Linux+User;Building+Automation+Tools" alt="Typing SVG" />
   </a>
 
   <br/><br/>
