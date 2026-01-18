@@ -1,65 +1,45 @@
-<h1 align="center"> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">Hi, I'm Rado</h1>
+<div align="center">
 
-###
-<br> 
-<br>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4500&pause=1000&center=true&width=500&lines=Software+Engineering+Student+;CTF+Player;" alt="Typing SVG" />
+  <h1 align="center"> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">Hi, I'm Rado Faristra Amsah</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=82AAFF&center=true&vCenter=true&width=435&lines=RPL+Student+%40+SMKN+1+Boyolangu;CTF+Player+%40+Team+JARVIS;Arch+Linux+User;Building+Automation+Tools" alt="Typing SVG" />
   </a>
-</p>
-<br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
+  <br/><br/>
 
+  <a href="https://instagram.com/USERNAME-ANDA">
+    <img src="https://img.shields.io/badge/Instagram-%2382AAFF.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="25" />
+  </a>
+  <a href="https://linkedin.com/in/USERNAME-ANDA">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
+  </a>
+  <a href="mailto:EMAIL-ANDA@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23C792EA?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
+  </a>
 
-###
+  <br/><br/>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <h3>🛠️ Tech Stack</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,linux,bash,git,vscode,docker,md,githubactions,react,nextjs,arch&perline=15" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://frigg-stats.vercel.app/api?username=Frigg1337&show_icons=true&hide_border=true&bg_color=0D1117&title_color=82AAFF&icon_color=C792EA&text_color=A6ACCD" height="160" />
+  <img src="https://frigg-stats.vercel.app/api/top-langs/?username=Frigg1337&layout=compact&hide_border=true&bg_color=0D1117&title_color=82AAFF&icon_color=C792EA&text_color=A6ACCD" height="160" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frigg1337&hide_border=true&background=0D1117&ring=C792EA&fire=82AAFF&currStreakLabel=82AAFF" height="160" />
+
+  <br/><br/>
+
+  <h3>📡 Featured Project</h3>
+  <a href="https://github.com/frigg1337/ctf-event-tracker">
+    <img align="center" src="https://frigg-stats.vercel.app/api/pin/?username=Frigg1337&repo=ctf-event-tracker&hide_border=true&bg_color=0D1117&title_color=82AAFF&icon_color=C792EA&text_color=A6ACCD" />
+  </a>
+
+  <br/><br/><br/>
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIwZGJhM2E1MWQzODQxYjc1NDQ5OTQ5NmM2ZGI5N2EwYmQ1NTQ0MyZjdD1z/hOzMv2eT7j7a0bVb7v/giphy.gif" width="100%" alt="Pacman Animation" />
+
 </div>
-
-# 📊 GitHub Stats:
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Frigg1337&theme=blueberry-duo" alt="GitHub Streak" /></a>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Frigg1337&theme=nightowl&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Frigg1337&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Frigg1337&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
- ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Connect with me :
- 
-<p align="left">
-<a href="https://github.com/Frigg1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Frigg1337" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Rado Faristra Amsah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rado Faristra Amsah" height="30" width="40" /></a>
-<a href="https://instagram.com/rafaakn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafaakn_" height="30" width="40" /></a>
-<a href="https://discord.gg/rafaakn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rafaakn" height="30" width="40" /></a>
-</p>
-
