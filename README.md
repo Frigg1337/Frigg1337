@@ -29,7 +29,7 @@
   <img src="https://frigg-stats.vercel.app/api?username=Frigg1337&show_icons=true&hide_border=true&bg_color=0D1117&title_color=82AAFF&icon_color=C792EA&text_color=A6ACCD" height="160" />
   <img src="https://frigg-stats.vercel.app/api/top-langs/?username=Frigg1337&layout=compact&hide_border=true&bg_color=0D1117&title_color=82AAFF&icon_color=C792EA&text_color=A6ACCD" height="160" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frigg1337&hide_border=true&background=0D1117&ring=C792EA&fire=82AAFF&currStreakLabel=82AAFF" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frigg1337&hide_border=true&background=0D1117&ring=C792EA&fire=82AAFF&currStreakNum=82AAFF&sideNums=82AAFF&currStreakLabel=C792EA&sideLabels=A6ACCD&dates=A6ACCD&stroke=A6ACCD" height="160" />
 
   <br/><br/>
 
@@ -48,3 +48,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Frigg1337/Frigg1337/output/snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Frigg1337/Frigg1337/output/snake.svg" width="100%" />
   </picture>
+</div>
